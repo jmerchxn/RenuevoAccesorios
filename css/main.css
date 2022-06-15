@@ -1,0 +1,27 @@
+/* css del index */
+
+body{
+    overflow-x: hidden;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+}
+header h1{
+    background-color: rgba(231, 191, 198, 0.847);
+    font-family: 'Monoton', cursive;
+}
+
+.bg-nav{
+    background-color: rgba(231, 191, 198, 0.163);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+footer{  
+    background-color: rgba(231, 191, 198, 0.163);
+}
